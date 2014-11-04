@@ -34,6 +34,6 @@ namespace The_Organizer_V._1._0
         /// This parameter is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-        }//test
+        }
     }
 }
